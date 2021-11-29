@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(252, 133, 89);
+    padding: 10px;
+}
+
+.header {
+    background-color: rgb(198, 255, 255);
+    height: 100px;
+}
+
+.aside {
+    background-color: aqua;
+    width: 300px;
+    height: 550px;
+}
+
+article {
+    background-color: orangered;
+    margin-left: 350px;
+    margin-top: -565px;
+    height: 550px;
+}
+
+.footer {
+    background-color: rgb(198, 255, 255);
+    height: 100px;
+}
+
+img {
+    width: 180px;
+    margin: 10px;
+
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
